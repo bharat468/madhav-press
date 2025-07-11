@@ -376,3 +376,85 @@ header {
     gap: 60px;
     margin: 30px;
 }
+
+.owner1 {
+    width: 290px;
+    background-color: #05182a;
+    color: #fff;
+    padding: 8px 14px;
+    margin: 40px auto;
+    border: 5px solid #05182a;
+    border-radius: 8px;
+    box-shadow: 3px 3px 14px gray;
+
+}
+
+
+.owner1 h3 {
+    padding: 10px 20px;
+    text-align: center;
+}
+
+.qr
+{
+    width: 350px;
+    height: 350px;
+    border: 5px solid#05182a;
+    border-radius: 9px;
+    object-fit: cover;
+    position: relative;
+    overflow: hidden;
+    background-color: white;
+    margin: 40px;
+
+}
+
+.qr img
+{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    position: absolute;
+    left: 0%;
+    top: -5%;
+
+}
+
+.bankdatial{
+    width: 400px;
+    height: 120px;
+    background-color: #05182a;
+    text-align: center;
+    border-radius: 40px;
+}
+
+.bankdatial h3{
+    text-align: center;
+    color: white;
+    margin: 10px auto 0;
+}
+
+.qrhead
+{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 40px;
+}
+
+.thank
+{
+    width: 500px;
+    background-color: #05182a;
+    color: white;
+    margin: auto;
+    padding: 20px;
+    border-radius: 15px;
+    margin: 0 auto 40px ;
+
+}
+
+.thank h2
+{
+    text-align: center;
+}
