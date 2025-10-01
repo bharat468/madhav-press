@@ -64,5 +64,9 @@ span{
     flex-wrap: wrap;
 }
 
+.main h3{
+    padding-top: 40px;
+}
 
 }
+
